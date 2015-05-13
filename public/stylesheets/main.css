@@ -3985,7 +3985,7 @@ ul.pagination {
   @media only screen and (max-width: 40em) {
     .reveal-modal {
       min-height: 85vh;
-  top: 90px !important;
+  top: 64px !important;
   border: 0; } }
   .reveal-modal .column, .reveal-modal .columns {
     min-width: 0; }
