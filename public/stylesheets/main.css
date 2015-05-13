@@ -6962,6 +6962,11 @@ color: #fafafa;
 }
 
 @media only screen and (max-width: 40em) {
+
+  .pageContentWrapper {
+    margin-top: 100px;
+  }
+
   .leaderBoxReveal {
     display: none;
   }
